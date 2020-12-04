@@ -13,6 +13,7 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
   text-align: center;
   text-shadow:4px 4px 0 rgba(0,0,0,0.1);
   padding:10px;
+  width: 300px;
 }
 
 /* Colours for each box */
@@ -32,5 +33,7 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 .container {
     display: flex;
     border: 10px solid goldenrod;
-    height: 100vh;
+    min-height: 100vh;
+    flex-direction: row;
+    flex-wrap: wrap;
 }

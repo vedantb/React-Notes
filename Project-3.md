@@ -507,8 +507,10 @@ Here is the result: https://codesandbox.io/s/lively-wood-3klqm?file=/src/App.js
 
 ---
 
-## WHART WE LEARNED
+## WHAT WE LEARNED
 
 In this module we wrote a nice little application with React, that lets you draw pixel art with the mouse.
 
 We started from a problem, we identified the units called components we needed, we combined them, and we explored a few of the possibilities that React gives us to build very cool applications.
+
+---
